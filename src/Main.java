@@ -41,7 +41,6 @@ public class Main {
 
         for (int i = 7; i <= 98; i = i + 7) {
             System.out.print(i + " ");
-
         }
 
         // Задача 7
